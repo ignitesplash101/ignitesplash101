@@ -2,6 +2,7 @@
 
 ### Education
 Bachelor of Business Management, Singapore Management University
+
 Master of Science in Analytics Student, Georgia Institute of Technology (expected graduation 2026)
 
 ### Work Experience
