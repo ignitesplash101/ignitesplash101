@@ -1,14 +1,17 @@
-# Risk Analytics Specialist
+# Hey 👋
 
-### Education
-Bachelor of Business Management, Singapore Management University
+Building applied ML projects at the intersection of finance and deep learning.
 
-Master of Science in Analytics Student, Georgia Institute of Technology (expected graduation 2026)
+## Featured Projects
 
-### Work Experience
-Client Service Specialist at MSCI Inc. (Riskmetrics). 
-- big impact project 1
-- big impact project 2
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [LSTM_VaR_project](https://github.com/ignitesplash101/LSTM_VaR_project) | LSTM-based Value-at-Risk estimation | Python, PyTorch, Time Series |
+| [vlm-vanguard](https://github.com/ignitesplash101/vlm-vanguard) | Vision-Language Model research | Python, Jupyter, VLMs |
+| [buyOrRent](https://github.com/ignitesplash101/buyOrRent) | Monte Carlo simulation for real estate buy vs. rent decisions | Python, Simulation, Sensitivity Analysis |
 
-### Projects
-personal projects: modeling whether to purchase a house or not (Real Estate in Japan) using Monte Carlo Simulations and Sensitivity Analyses.
+## Tech Stack
+
+**Languages:** Python, SQL, JavaScript  
+**ML/DL:** PyTorch, scikit-learn, pandas, NumPy  
+**Tools:** Git, Docker, GCP (Cloud Run), Heroku, Flask
