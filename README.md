@@ -1,6 +1,6 @@
 # Hey 👋
 
-Risk implementation in Tokyo. I build applied ML and quantitative tooling at the
+Risk Analytics in Tokyo. I build applied ML and quantitative tooling at the
 intersection of finance, LLMs, and deep learning.
 
 ## Featured Projects
